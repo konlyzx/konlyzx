@@ -1,6 +1,6 @@
 <!-- Encabezado con fondo degradado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=150&section=header&text=👋%20Hi,%20I'm%20Konlyzx!&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=150&section=header&text=👋%20Hi,%20I'm%20Kevin!&fontSize=40&fontColor=ffffff" />
 </p>
 
 <!-- Presentación -->
